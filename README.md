@@ -1,1 +1,4 @@
 # groupExpt
+ABCDEFG
+HIJK
+QRS
